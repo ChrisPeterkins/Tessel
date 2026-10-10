@@ -8,6 +8,12 @@ custom sizes, app pinning, and double-tap-modifier triggers.
 
 Menu bar app, no Dock icon. Native Swift, no dependencies.
 
+<p align="center">
+  <img src="docs/window-throw.png" alt="Tessel Window Throw panel: sixteen layouts with keyboard shortcuts" width="540">
+</p>
+
+*The Window Throw panel, rendered from the app’s SwiftUI view. Open it with ⌃⌥Space and choose a layout with one key.*
+
 ## Build & run
 
 ```sh
